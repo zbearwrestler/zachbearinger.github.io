@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(83,82,81);
+}
+h1{
+  color: rgb(208,100,10);
+  font-size: 75px;
+}
+h2{
+  color: rgb(208,100,10);
+  font-size: 50px;
+}
+p{
+  color: rgb(163,163,163);
+  font-size: 20px;
+  text-align: left;
+}
+div{
+  margin:auto;
+  text-align: center;
+}
+.menusimple{
+  color: rgb(163,163,163);
+}
