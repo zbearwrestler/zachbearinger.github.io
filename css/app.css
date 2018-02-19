@@ -21,3 +21,13 @@ div{
 .menusimple{
   color: rgb(163,163,163);
 }
+.main{
+  background-color: rgb(45,45,45);
+}
+.bigbanner{
+  background-color: rgb(45,45,45);
+}
+.smallbanner{
+  background-Color: rgb(6,125,125);
+  height:20px;
+}
