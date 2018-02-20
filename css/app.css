@@ -31,3 +31,13 @@ div{
   background-Color: rgb(6,125,125);
   height:20px;
 }
+
+.post{
+  background-color: rgb(15,15,15);
+}
+
+h5{
+  color: rgb(163,163,163);
+  font-size: 20px;
+  text-align: left;
+}
