@@ -32,8 +32,8 @@ div{
   height:20px;
 }
 .sidemenu{
-  top:30%;
-  position: absolute;
+  top:15%;
+  position: fixed;
 }
 
 .fixed{
